@@ -1,0 +1,350 @@
+/* 
+  Localizable.strings
+  TelematicsApp
+
+  Created by DATA MOTION PTE. LTD. on 05.01.20.
+  Copyright © 2021 DATA MOTION PTE. LTD. All rights reserved.
+*/
+
+/* main */
+"TelematicsApp" = "TelematicsApp";
+"dashboard_title" = "Score";
+"feed_title" = "Viajes";
+"rewards_title" = "Rewards";
+"profile_title" = "Perfil";
+"settings_title" = "Configuración";
+"trip_detailed_title" = "Detalle de viaje";
+
+
+/* login */
+"success_login" = "Acceso exitoso";
+"This phone is not registered.\nDo you want to proceed registration with this phone number?" = "Este teléfono no está registrado.\n¿Quieres proceder con el registro?";
+"This Email is not registered.\nDo you want to proceed registration with this Email?" = "Este teléfono no está registrado.\n¿Quieres proceder con el registro?";
+"Sign Up\n"= "Registro\n";
+"Welcome!" = "¡Bienvenido!";
+"CONFIRM" = "CONFIRMAR";
+"CANCEL" = "CANCELAR";
+"JOIN" = "CREA TU CUENTA";
+"Join using Email" = "Cuenta usando Email";
+"JOIN USING EMAIL" = "CUENTA USANDO EMAIL";
+"Login via Phone Number" = "Iniciar sesión con teléfono";
+"LOGIN VIA PHONE NUMBER" = "INICIAR SESIÓN VIA TELÉFONO";
+"log_in_text" = "INICIAR SESIÓN";
+"SIGN IN" = "INICIAR SESIÓN";
+"Use your email address" = "Usa tu correo electrónico";
+"enter phone" = "ingresa teléfono";
+"Select Countries" = "Seleccionar Países";
+"Select Country" = "Selecciona País";
+"Get a new password" = "Obtener nueva contraseña";
+"Sign in with another email" = "Iniciar sesión con otro email";
+"Sign in with another phone" = "Iniciar sesión con otro teléfono";
+"enter password" = "ingresa contraseña";
+"Enter your password from sms" = "Ingresa tu contraseña del sms";
+"You were logged in as %@" = "Iniciaste sesión como %@";
+"You were logged in" = "Iniciaste sesión";
+"Wrong password, please repeat again" = "Contraseña incorrecta, intenta nuevamente";
+"Message with a password was sent to %@\nEnter it in the field below" = "Mensaje con la contraseña fue enviado a %@\nIngrésala en al campo abajo";
+"Enter the password from sms" = "Ingresa la contraseña del sms";
+"Resend password after %d sec" = "Reenviar contraseña después de %d sec";
+"An error occurred while changing the password. Try again please" = "Error al cambiar la contraseña. Intenta de nuevo";
+
+
+/* settings menu */
+"menuitem_profile" = "Perfil";
+"menuitem_connectOBD" = "Conectar dispositivo";
+"menuitem_measures" = "Medidas";
+"menuitem_companyId" = "Unirte a un grupo";
+"menuitem_claims" = "Siniestros";
+"menuitem_leaderboard" = "Ranking";
+"menuitem_howiw" = "Cómo funciona";
+"menuitem_tsettings" = "Configuración";
+"menuitem_connectobd" = "Conectar dispositivo";
+"menuitem_security" = "Seguridad";
+"menuitem_chat" = "Chat";
+"menuitem_logout" = "Salir";
+"menuitem_privacy" = "Política de privacidad";
+"menuitem_terms" = "Términos y condiciones";
+"menuitem_rate" = "Califica nuestra app";
+"menuitem_help" = "Ayuda";
+
+
+/* settings logout*/
+"Logout" = "Salir";
+"Are you sure you want to quit?" = "¿Estás seguro que deseas salir?";
+
+
+/* common */
+"Ok" = "Ok";
+"Yes" = "Si";
+"No" = "No";
+"Cancel" = "Cancelar";
+"Done" = "Hecho";
+"Email" = "Email";
+"BACK" = "ATRÁS";
+"Back" = "Atrás";
+"COMPLETE" = "COMPLETAR";
+"NEXT STEP" = "SIGUIENTE";
+"Success" = "Éxito";
+"Successful" = "Exitosamente";
+"Successfully" = "Exitosamente";
+"placeholder_name" = "Nombre";
+"error_title" = "Error";
+"Search" = "Buscar";
+"Support" = "Ayuda";
+"Camera Roll" = "Cámara";
+
+
+/* dashboard */
+"Welcome aboard!" = "¡Bienvenido!";
+"Start" = "Iniciar";
+"START\nTEST-DRIVE" = "INICIAR\nPRUEBA";
+"dash_overall" = "Score General";
+"dash_acceleration" = "Score Aceleración";
+"dash_braking" = "Score Frenado";
+"dash_phone" = "Distracción teléfono";
+"dash_speeding" = "Score de velocidad";
+"dash_cornering" = "Giros agresivos";
+"Users drive " = "Maneja";
+"60% safer" = "60% más seguro";
+" with our awesome app!" = " con nuestra app!";
+"Save time & money when searching for the best auto, life, home, or health insurance policy online" = " ";
+"Always listen " = "Recibe ";
+"carefully" = "recomendaciones";
+" to our advices!" = " de manejo";
+"Inappropriate braking behaviour has a cumulative effect on a vehicle safety systems. This leads to increased risk!" = " ";
+"Total Trips" = "Total de viajes";
+"Mileage" = "Kilometraje";
+"Time Driven" = "Tiempo";
+"quantity" = "cantidad";
+"km" = "km";
+"mi" = "mi";
+"hours" = "horas";
+"dash_points" = "puntos";
+"dash_km" = "km";
+"dash_hours" = "horas";
+"dash_miles" = "mi";
+"Rank" = "Rank";
+"LATEST SCORED TRIP" = "ÚLTIMO VIAJE";
+"Scoring is available in:" = "Score disponible en:";
+"Drive as you do normally" = "Conduce normalmente";
+"TRIP" = "VIAJE";
+"SHARED TRIP" = "VIAJE COMPARTIDO";
+"CHALLENGE" = "RETO";
+"MESSAGE" = "MENSAJE";
+"Make your first trip! It will appear here soon." = "Realiza tu primer viaje. Aparecerá en breve.";
+"Useful" = "Útil";
+
+
+/* feed */
+"TRIPS" = "VIAJES";
+"hide_trip" = "¿Estás seguro que quieres ocultar este viaje?";
+"delete_trip" = "¿Estás seguro que quieres borrar este viaje?";
+"passenger_title" = "¿Fuiste pasajero en este viaje?";
+"passenger_tag_title" = "¿Este viaje fue personal o de negocios?";
+"more_info" = "Más";
+"trip_mileage_value" = "%d km";
+"trip_mileage_value_short" = "%.1f km";
+"trip_duration_value" = "%d min";
+"select_origin" = "¿Fuiste el conductor de este viaje?";
+"Shared by me" = "Compartido por mi";
+"Shared by\n%@ %@" = "Compartido por\n%@ %@";
+"great_trip" = "Tu viaje fue muy bueno. Sigue manejando para ganar más puntos.";
+"Driver" = "Conductor";
+"Passenger" = "Pasajero";
+"tripdetails_acc" = "Aceleración";
+"tripdetails_brake" = "Frenado";
+"tripdetails_corner" = "Giros";
+"%@\n%@\n\nSpeed: %@ km/h\nMax Force: %@ m/s/s" = "%@\n%@\n\nSpeed: %@ km/h\nMax Force: %@ m/s/s";
+"%@\n%@\n\nSpeed: %@ mi/h\nMax Force: %@ m/s/s" = "%@\n%@\n\nVelocidad: %@ mi/h\nMax Fuerza: %@ m/s/s";
+"sheet_acc" = "Score Aceleración";
+"sheet_braking" = "Score Frendado";
+"sheet_phone" = "Distracción teléfono";
+"sheet_speeding" = "Score Velocidad";
+"sheet_cornering" = "Giros agresivos";
+
+
+/* profile */
+"Driver Information" = "Información del conductor";
+"Profile Information" = "Información del perfil";
+"My Cars" = "Mis vehículos";
+"Your Vehicles" = "Tus vehículos";
+"nickname_placeholder" = "Nickname";
+"validation_confirm_password" = "Confirmar contraseña";
+"You have successfully uploaded your documents. Expect their verification" = "Tus documentos se han subido con éxito. En espera de verificación";
+"You have successfully uploaded your documents. Expect their verification. Your profile will be filled out automatically very soon" = "Tus documentos se han subido con éxito. En espera de verificación. Tu perfil será actualizado automáticamente en breve";
+"Uploading" = "Subiendo";
+"Take photos of the front and back side of the document or select from the Gallery" = "Toma fotos del frente y reverso del documento o seleccione de la Galería";
+"Take Photo" = "Tomar foto";
+"Photo Library" = "Librería";
+"Image Gallery" = "Galería";
+"Phone: %@" = "Teléfono: %@";
+"Phone:" = "Teléfono:";
+"Married" = "Casado";
+"Widowed" = "Viudo";
+"Divorced" = "Divorciado";
+"Single" = "Soltero";
+"Not specified" = "No especificado";
+"No kids" = "Sin niños";
+"Marital Status: %@     Kids: %@" = "Estado Civil: %@     Niños: %@";
+"Marital Status:" = "Estado Civil:";
+"Kids:" = "Niños:";
+"Add New Document" = "Agregar documento";
+"Driving license not specified" = "Licencia de conducir no especificada";
+"License #: %@" = "Licencia #: %@";
+"Add New Vehicle" = "Agregar vehículo";
+"Car make not specified" = "Marca no especificada";
+"Mileage can't be changed after adding a car" = "Kilometraje no se puede modificar después de agregar un coche";
+"VIN: %@" = "# SERIE: %@";
+"LICENSE: %@" = "LICENCIA: %@";
+"Stop verification" = "Parar verificación";
+"Are you sure you want to stop verification of your documents?" = "¿Estás seguro que quieres cancelar la verificación?";
+"Your Account Status" = "Estatus de cuenta";
+"Uncompleted" = "No completado";
+"Complete info in order to use all features available within the app!" = "Completar información para usar el app";
+"FIX ISSUES" = "REPARAR PROBLEMA";
+"      Personal Info" = "      Información personal";
+"             Personal Info" = "             Información personal";
+"      Driver Info" = "      Información de conductor";
+"             Driver Info" = "             Información de conductor";
+"      Vehicle Info" = "      Información de vehículo";
+"             Vehicle Info" = "             Información de vehículo";
+" Verified Account" = " Cuenta verificada";
+
+
+/* contacts */
+"support_name" = "Ayuda";
+"support_comment" = "Comentario";
+"support_nomail" = "Cuentas de email no están configuradas";
+
+
+/* validation */
+"validation_enter_email" = "Correo faltante . Intenta de nuevo";
+"validation_invalid_email" = "Correo electrónico incorrecto";
+"validation_enter_phone" = "Número inválido";
+"validation_invalid_phone" = "Número no es correcto";
+"validation_invalid_email_password" = "Contraseña incorrecta";
+"validation_invalid_password" = "Contraseña incorrecta";
+"validation_invalid_password_small" = "Contraseña con pocos caracteres";
+"validation_invalid_code_phone" = "Código incorrecto. Revisa el SMS o genera un nuevo código";
+"validation_invalid_code_check_phone" = "Código incorrecto. Revisa el SMS";
+"validation_invalid_code_email" = "Código incorrecto. Revisa tu email o genera un nuevo código";
+"validation_enter_password" = "Contraseña faltante. Intenta nuevamente";
+"validation_enter_symbols" = "Contraseña inválida";
+"validation_enter_symbols_six" = "Contraseña debe tener al menos 6 caracteres";
+
+
+/* change password */
+"Change Password" = "Cambiar contraseña";
+"Old Password" = "Contraseña anterior";
+"New Password" = "Contraseña nueva";
+"Enter old password" = "Ingresa la contraseña anterior";
+"Enter new password" = "Ingresa la nueva contraseña";
+"SAVE" = "GUARDAR";
+"Save" = "Guardar";
+"You have changed password for your account" = "Has cambiado tu contraseña exitosamente";
+"You entered the wrong password" = "Contraseña incorrecto";
+"Password can not be empty" = "Contraseña faltante";
+
+
+/* additional */
+"Monday" = "Lunes";
+"Tuesday" = "Martes";
+"Wednesday" = "Miércoles";
+"Thursday" = "Jueves";
+"Friday" = "Viernes";
+"Saturday" = "Sábado";
+"Sunday" = "Domingo";
+"Permission status" = "Estatus de persimos";
+"To determine your location automatically, you need to resolve access to the following functions.\n\nBut in order to fully use the TelematicsApp, you must issue all permissions, including GPS only ALWAYS mode.\n\nDo it now and get all the benefits." = "Para determinar tu ubicación automáticamente, necesitas dar acceso a las siguientes funciones.\n\nPAra utilizar el app, debes otorgar todos los permisos, incluyendo el GPS en modo SIEMPRE.\n\nHazlo ahora para obtener todos los beneficios.";
+"To collect accurate data and complete app operation, you need to resolve access to the following functions:" = "Para recolectar información precisa, necesitas dar acceso a las siguientes funcioens:";
+"Enable GPS always" = "GPS en Todo el tiempo";
+"Enable Motions" = "Activar Motions";
+"Enable Push-notifications" = "Activar Push-notifications";
+
+"Date of Birth\nNot specified" = "Fecha de nacimiento\nNo especificado";
+"Date of Birth\n%@" = "Fecha de nacimiento\n%@";
+"Address\nNot specified" = "Dirección\nNo especificado";
+"Address\n%@" = "Dirección\n%@";
+
+
+/* congratulation popup */
+"Congratulations!" = "¡Felicidades!";
+"You have given access to all permissions and now you can use full power of\nTelematicsApp!" = "Has otorgado todos los permisos para la operación de of\nGari Telematics!";
+"      Grow your Safe Driving Score" = "      Incrementa tu score de manejo";
+"             Grow your Safe Driving Score" = "             Incrementa tu score de manejo";
+"      Complete with your Friends" = "      Compite con tus amigos";
+"             Complete with your Friends" = "             Compite con tus amigos";
+"      Complete Challenges & Gain Coins" = "      Completa retos y gana Gari Coins";
+"             Complete Challenges & Gain Coins" = "             Completa retos y gana Gari Coins";
+
+
+/* wizard */
+"FIRST NAME" = "NOMBRE";
+"LAST NAME" = "APELLIDO";
+"EMAIL" = "EMAIL";
+"PHONE NUMBER" = "TELÉFONO";
+"BIRTH DATE" = "FECHA DE NACIMIENTO";
+"MARITAL STATUS" = "ESTADO CIVIL";
+"CHILDREN" = "NIÑOS";
+"ADDRESS" = "DIRECCIÓN";
+" ADDRESS" = " DIRECCIÓN";
+"ID (Optional)" = "ID (Opcional)";
+"LICENSE NUMBER" = "# DE LICENCIA";
+"REGISTRATION DATE" = "FECHA DE REGISTRO";
+"DOCUMENT VALID UNTIL" = "VIGENCIA";
+"DOCUMENT ISSUED BY" = "EXPEDIDO POR";
+"REGISTRATION LOCATION" = "UBICACIÓN DE REGISTRO";
+"CATEGORY" = "CATEGORÍA";
+"LICENSE PLATE" = "PLACAS";
+"VIN NUMBER" = "NÚMERO DE SERIE";
+"MAKE & MODEL" = "MARCA Y MODELO";
+"CAR TYPE" = "TIPO DE VEHÍCULO";
+"YEAR OF ISSUE" = "AÑO";
+"CHASSY NUMBER" = "# MOTOR";
+"COLOR" = "COLOR";
+"ENGINE POWER KWt" = "POTENCIA KWt";
+"ENGINE POWER HP" = "CABALLOS DE FUERZA";
+"ECOLOGY CLASS" = "CLASE";
+"TECHNICAL PASSPORT SERIES" = "SERIE";
+"TECHNICAL PASSPORT NUMBER" = "NÚMERO PASAPORTE";
+"MAX CAR WEIGHT" = "PESO MÁXIMO";
+"NO LOAD CAR WEIGHT" = "NA";
+"OWNER FIRST NAME" = "NOMBRE";
+"OWNER LAST NAME" = "APELLIDO";
+"OWNER PATRONYMIC" = "OTRO";
+"SPECIAL MARKS" = "DISTINTIVO";
+"Uploaded Driver License" = "Licencia de manejo subida";
+"Uploaded Passport Photos" = "Fotos de pasaporte subidas";
+"Uploaded Car Document" = "Documentos de vehículos subidos";
+"Complete Account" = "Completar cuenta";
+"Profile Info" = "Información de perfil";
+"Driving License" = "Licencia de manejo";
+"Car Info" = "Información de vehículo";
+"Registration:" = "Registro:";
+"Valid Until:" = "Válido hasta:";
+"Issued By:" = "Expedido por:";
+"Location:" = "Ubicación:";
+"Category:" = "Categoría:";
+"Engine Volume:" = "Volumen motor:";
+"Engine Power:" = "Potencia de motor:";
+"Color:" = "Color:";
+"Max Weight:" = "Peso máximo:";
+"Ecology Class:" = "Clase:";
+"License Plate:" = "Placas:";
+"Make & Model:" = "Marca y modelo:";
+"Car Type:" = "Tipo de vehículo:";
+"Owner:" = "Dueño:";
+"Address:" = "Dirección:";
+"LICENSE:" = "LICENCIA:";
+"VIN:" = "# SERIE:";
+
+
+/* permission warning
+"We use your photo gallery & media files only to upload your selected photos to your profile" = "We use your photo gallery & media files only to upload your selected photos to your profile";
+"We use Bluetooth devices to connect them to the phone" = "We use Bluetooth devices to connect them to the phone";
+"We use your camera so that you take a photo, and only to upload your selected photos for an avatar or documents for a car" = "We use your camera so that you take a photo, and only to upload your selected photos for an avatar or documents for a car";
+"We use your contacts to give you the opportunity to invite your friends to your Community" = "We use your contacts to give you the opportunity to invite your friends to your Community";
+"We use location service for evaluating your driving manner. By enabling \"Always\" on location, the app will be able to automatically determine when you have started and ended a drive" = "We use location service for evaluating your driving manner. By enabling \"Always\" on location, the app will be able to automatically determine when you have started and ended a drive";
+"We use motion sensors for evaluating your driving manner" = "We use motion sensors for evaluating your driving manner";
+"We use your photo gallery only to upload your selected photos" = "We use your photo gallery only to upload your selected photos";
+*/
